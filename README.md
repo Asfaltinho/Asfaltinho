@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, JavaScript and HTML
 - 💞️ I’m looking to collaborate on Centaurity
 - 📫 How to reach me:
-      asfaltinho@duck.com
+      asfaltinho@duck.com or asfaltinho@protonmail.com
 
 <!---
 Asfaltinho/Asfaltinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

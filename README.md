@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Asfaltinho
-- 👀 I’m interested in IT, videogames and the Android world.
+- 👀 I’m interested in IT
 - 🌱 I’m currently learning Python, JavaScript and HTML
 - 💞️ I’m looking to collaborate on Centaurity
 - 📫 How to reach me:
